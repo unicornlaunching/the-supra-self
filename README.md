@@ -8,4 +8,5 @@ Read book: [The Sankofa Self](https://github.com/unicornlaunching/the-supra-self
 Authors:
 - [Blockface.btc](http://www.x.com/attractfund1ng)
 - [Mel.btc](http://www.x.com/melbelle_btc)
-- [Manus.im](https://x.com/ManusAI_HQ)
+
+...through an AI menage a trois avec [Manus.im](https://x.com/ManusAI_HQ)
