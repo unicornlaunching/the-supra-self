@@ -9,3 +9,5 @@ Authors:
 - [Mel.btc](http://www.x.com/melbelle_btc)
 
 ...through an AI menage a trois avec [Manus.im](https://x.com/ManusAI_HQ)
+
+![Sankofism](https://github.com/unicornlaunching/the-supra-self/blob/main/the_sankofa_self_animated_version.gif)
