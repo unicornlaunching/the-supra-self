@@ -1,6 +1,6 @@
 # The Sankofa Self
 
-![Sankofism](https://github.com/unicornlaunching/the-supra-self/blob/main/The%20Sankofa%20Self.png))
+![Sankofism](https://github.com/unicornlaunching/the-supra-self/blob/main/the_sankofa_self_image.png)
 
 Read book: [The Sankofa Self](https://github.com/unicornlaunching/the-supra-self/blob/main/The_Sankofa_Self_Mel_Blockface.pdf)
 
